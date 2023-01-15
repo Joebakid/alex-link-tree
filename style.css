@@ -108,11 +108,23 @@ a {
 
 h1 {
   font-size: 20px;
-  margin: 10px 0 30px 0;
+  margin: 10px 0 10px 0;
+  /* color: rgb(39, 153, 206); */
+}
+
+.hero-intro p{
+  text-align: center;
+}
+
+.hero-intro {
+  padding: 2px 0 30px 0 ;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 ion-icon {
-  color: #fff;
+  color: rgb(184, 179, 179);
 }
 
 .icon {
