@@ -53,17 +53,19 @@ a {
   color: inherit;
 }
 
-.share-button {
+/* .share-button {
   width: 40px;
   height: 40px;
   border-radius: 20px;
   background-color: rgba(255, 255, 255, 0.911);
-  /* color: gray; */
+  
   display: flex;
   align-items: center;
   justify-content: center;
   cursor: pointer;
-}
+} */
+
+ 
 
 .icon-share {
   color: black;
